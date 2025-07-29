@@ -6,7 +6,7 @@ public class Producto {
     private String tipo;
     private int precio;
 
-    public Producto(Long id) {
+    public Producto() {
     }
 
     public Producto(Long id, String nombre, String tipo, int precio) {
